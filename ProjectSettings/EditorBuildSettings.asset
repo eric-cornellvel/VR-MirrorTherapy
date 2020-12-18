@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MirrorTherapy.unity
+    guid: 658c3e91e2c517f43aeddfc737d067f7
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: fcce4bdbff63e40479cbb1ed7361eee9,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f2db66053b7cba546b1f213cbd81a119,
+      type: 2}
